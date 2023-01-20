@@ -1,0 +1,25 @@
+    1  git hist
+    2  git log
+    3  git status
+    4  git add .
+    5  git status
+    6  git hist
+    7  git log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+    8  git log -pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+    9  git log -pretty=format:\"%h %ad | %s%d [%an]\" -graph -date=short
+   10  git log -pretty=format:\"%h %ad | %s%d [%an]\"
+   11  git st
+   12  ls
+   13  ls -a
+   14  cat .git
+   15  cat .gitconfig 
+   16  git config --global alias.hist "log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short"
+   17  git hist
+   18  git remote -v
+   19  git remote add origin https://github.com/teja7m/demoeficens.git
+   20  git remote -v
+   21  ls
+   22  git hist > Datafile
+   23  ls
+   24  cat Datafile 
+   25  history 200 > Datafile 

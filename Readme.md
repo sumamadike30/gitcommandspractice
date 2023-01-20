@@ -9,3 +9,5 @@ I want to unstage this commit
 #Making changes to master branch
 
 #Making changes to bad branch
+#updates in readme
+#updated the second time in stage
