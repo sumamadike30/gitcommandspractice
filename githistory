@@ -1,0 +1,19 @@
+sumamadike30@ubuntu:~/git/demogit$ git hist
+* 93175e3 2023-01-20 | added datafile (HEAD -> master, base/master) [sumamadike]
+* 2a3602b 2023-01-20 | updated config file (tag: v1.0) [sumamadike]
+*   abdd9bd 2023-01-20 | changes to master branch1 [sumamadike]
+|\  
+| * c96a52a 2023-01-20 | very bad commit1 (very-bad) [sumamadike]
+| * 0c75dfc 2023-01-20 | very bad commit [sumamadike]
+* | 53ad177 2023-01-20 | changes to master branch [sumamadike]
+|/  
+* 133dfe7 2023-01-20 | adding gitconfig file [sumamadike]
+* cdce4b6 2023-01-20 | adding gitignore file [sumamadike]
+* cdaf8ea 2023-01-20 | Added new commit for other file [sumamadike]
+* ece0277 2023-01-20 | deleting the file [sumamadike]
+* abadb20 2023-01-20 | Renaming the file [sumamadike]
+* ec4c0b2 2023-01-20 | Newfile1 is added [sumamadike]
+* 968637c 2023-01-20 | Fast track commit [sumamadike]
+* dd51e99 2023-01-20 | second commit from vs code [sumamadike]
+* 3531cf6 2023-01-20 | Initial commit for new folder [sumamadike]
+* c9fec0c 2023-01-20 | Initial commit for demo project [sumamadike]
